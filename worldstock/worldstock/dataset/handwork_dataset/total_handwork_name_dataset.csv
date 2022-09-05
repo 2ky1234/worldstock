@@ -1,0 +1,802 @@
+symbol,name_original,refine_name,pass,Country,IPO Year
+AAPL,Apple Inc. Common Stock,apple,sobig,United States,1980
+MSFT,Microsoft Corporation Common Stock,microsoft,sobig,United States,1986
+GOOG,Alphabet Inc. Class C Capital Stock,google,sobig,United States,2004
+AMZN,Amazon.com Inc. Common Stock,amazon,sobig,United States,1997
+TSLA,Tesla Inc. Common Stock,tesla,0,United States,2010
+UNH,UnitedHealth Group Incorporated Common Stock (DE),unitedhealth,0,United States,
+JNJ,Johnson & Johnson Common Stock,"johnson,&",0,United States,
+V,Visa Inc.,visa,0,United States,
+TSM,Taiwan Semiconductor Manufacturing Company Ltd.,tsmc,0,Taiwan,1997
+NVDA,NVIDIA Corporation Common Stock,nvidia,0,United States,1999
+XOM,Exxon Mobil Corporation Common Stock,exxon,0,United States,
+PG,Procter & Gamble Company (The) Common Stock,procter,0,United States,
+WMT,Walmart Inc. Common Stock,walmart,sobig,United States,
+JPM,JP Morgan Chase & Co. Common Stock,"jp,morgan",0,United States,
+BABA,Alibaba Group Holding Limited American Depositary Shares each representing eight Ordinary share,alibaba,0,China,2014
+MA,Mastercard Incorporated Common Stock,mastercard,0,United States,2006
+LLY,Eli Lilly and Company Common Stock,"eli,lilly",0,United States,
+PFE,Pfizer Inc. Common Stock,pfizer,0,United States,
+HD,Home Depot Inc. (The) Common Stock,"home,depot",0,United States,
+CVX,Chevron Corporation Common Stock,chevron,0,United States,
+BAC,Bank of America Corporation Common Stock,boa,pass,United States,
+KO,Coca-Cola Company (The) Common Stock,"coca,cola",0,United States,
+ABBV,AbbVie Inc. Common Stock,abbvie,0,United States,2012
+NVO,Novo Nordisk A/S Common Stock,nordisk,0,Denmark,
+PEP,PepsiCo Inc. Common Stock,pepsico,0,United States,
+MRK,Merck & Company Inc. Common Stock (new),merck,0,United States,
+COST,Costco Wholesale Corporation Common Stock,costco,0,United States,
+TMO,Thermo Fisher Scientific Inc Common Stock,"thermo,fisher",0,United States,
+TM,Toyota Motor Corporation Common Stock,toyota,0,Japan,
+VZ,Verizon Communications Inc. Common Stock,verizon,0,United States,
+AZN,AstraZeneca PLC American Depositary Shares,astrazeneca,0,United Kingdom,
+AVGO,Broadcom Inc. Common Stock,broadcom,0,United States,2009
+ABT,Abbott Laboratories Common Stock,abbott,0,United States,
+DHR,Danaher Corporation Common Stock,danaher,0,United States,
+ORCL,Oracle Corporation Common Stock,oracle,0,United States,1986
+MCD,McDonald's Corporation Common Stock,mcdonald's,0,United States,
+NVS,Novartis AG Common Stock,novartis,0,Switzerland,
+ADBE,Adobe Inc. Common Stock,adobe,0,United States,1986
+ASML,ASML Holding N.V. New York Registry Shares,asml,0,Netherlands,1995
+SHEL,Royal Dutch Shell PLC American Depositary Shares (each representing two (2) Ordinary Shares) ,"royal,dutch",0,Netherlands,
+CMCSA,Comcast Corporation Class A Common Stock,comcast,0,United States,
+CSCO,Cisco Systems Inc. Common Stock (DE),cisco,0,United States,1990
+DIS,Walt Disney Company (The) Common Stock,"walt,disney",0,United States,
+ACN,Accenture plc Class A Ordinary Shares (Ireland),accenture,0,Ireland,2001
+CRM,Salesforce Inc. Common Stock,salesforce,0,United States,2004
+TMUS,T-Mobile US Inc. Common Stock,t-mobile,0,United States,
+NKE,Nike Inc. Common Stock,nike,0,United States,
+UPS,United Parcel Service Inc. Common Stock,"united,parcel",0,United States,1999
+BMY,Bristol-Myers Squibb Company Common Stock,squibb,0,United States,
+NEE,NextEra Energy Inc. Common Stock,"nextera,energy",0,United States,
+INTC,Intel Corporation Common Stock,intel,0,United States,
+WFC,Wells Fargo & Company Common Stock,"wells,fargo",0,United States,
+T,AT&T Inc.,at&t,0,United States,
+QCOM,QUALCOMM Incorporated Common Stock,"qualcomm,incorporated",0,United States,1991
+PM,Philip Morris International Inc Common Stock,"philip,morris",0,United States,
+TXN,Texas Instruments Incorporated Common Stock,"texas,instruments",0,United States,
+RTX,Raytheon Technologies Corporation Common Stock,raytheon,0,United States,
+LIN,Linde plc Ordinary Share,linde,0,,2018
+BHP,BHP Group Limited American Depositary Shares (Each representing two Ordinary Shares),bhp,0,Australia,
+MS,Morgan Stanley Common Stock,"morgan,stanley",0,United States,
+UNP,Union Pacific Corporation Common Stock,"union,pacific",0,United States,
+AMGN,Amgen Inc. Common Stock,amgen,0,United States,1983
+TTE,TotalEnergies SE,totalenergies,0,France,
+HSBC,HSBC Holdings plc. Common Stock,hsbc,0,United Kingdom,
+AMD,Advanced Micro Devices Inc. Common Stock,"advanced,micro",0,United States,
+IBM,International Business Machines Corporation Common Stock,ibm,0,United States,
+SNY,Sanofi ADS,sanofi,0,France,
+CVS,CVS Health Corporation Common Stock,cvs,0,United States,
+SCHW,Charles Schwab Corporation (The) Common Stock,"charles,schwab",0,United States,
+AMT,American Tower Corporation (REIT) Common Stock,"american,tower",0,United States,
+MDT,Medtronic plc. Ordinary Shares,medtronic,0,United States,
+HON,Honeywell International Inc. Common Stock,honeywell,0,United States,
+UL,Unilever PLC Common Stock,unilever,0,United Kingdom,
+LOW,Lowe's Companies Inc. Common Stock,lowe's,0,United States,
+INTU,Intuit Inc. Common Stock,intuit,0,United States,1993
+TD,Toronto Dominion Bank (The) Common Stock,"toronto,dominion",0,Canada,
+LMT,Lockheed Martin Corporation Common Stock,lockheed,0,United States,
+COP,ConocoPhillips Common Stock,conocophillips,0,United States,
+GSK,GSK plc American Depositary Shares (Each representing two Ordinary Shares),glaxosmithkline,0,United Kingdom,
+EQNR,Equinor ASA,equinor,0,Norway,
+HDB,HDFC Bank Limited Common Stock,hdfc,0,India,2001
+SAP,SAP  SE ADS,sap,0,Germany,
+AXP,American Express Company Common Stock,"american,express",0,United States,
+GS,Goldman Sachs Group Inc. (The) Common Stock,"goldman,sachs",0,United States,1999
+SONY,Sony Group Corporation American Depositary Shares ,sony,0,Japan,
+NOW,ServiceNow Inc. Common Stock,servicenow,0,United States,2012
+JD,JD.com Inc. American Depositary Shares,jdcom,0,China,2014
+DEO,Diageo plc Common Stock,diageo,0,United Kingdom,
+RIO,Rio Tinto Plc Common Stock,"rio,tinto",0,Australia,2002
+CAT,Caterpillar Inc. Common Stock,"caterpillar,inc",pass,United States,
+CHTR,Charter Communications Inc. Class A Common Stock New,"charter,communications",0,United States,
+BUD,Anheuser-Busch Inbev SA Sponsored ADR (Belgium),"anheuser,busch",0,Belgium,
+BLK,BlackRock Inc. Common Stock,blackrock,0,United States,1999
+DE,Deere & Company Common Stock,"deere,&",0,United States,
+EL,Estee Lauder Companies Inc. (The) Common Stock,"estee,lauder",0,United States,1995
+BTI,British American Tobacco  Industries p.l.c. Common Stock ADR,"american,tobacco",pass,United Kingdom,1998
+C,Citigroup Inc. Common Stock,citigroup,0,United States,
+SBUX,Starbucks Corporation Common Stock,starbucks,0,United States,1992
+PLD,Prologis Inc. Common Stock,prologis,0,United States,
+ADP,Automatic Data Processing Inc. Common Stock,"automatic,data",0,United States,
+BP,BP p.l.c. Common Stock,bp,0,United Kingdom,
+CI,Cigna Corporation Common Stock,cigna,0,United States,
+PYPL,PayPal Holdings Inc. Common Stock,paypal,0,United States,
+MDLZ,Mondelez International Inc. Class A Common Stock,mondelez,0,United States,
+ENB,Enbridge Inc Common Stock,enbridge,0,Canada,
+ZTS,Zoetis Inc. Class A Common Stock,zoetis,0,United States,2013
+NFLX,Netflix Inc. Common Stock,netflix,0,United States,2002
+PTR,PetroChina Company Limited Common Stock,petrochina,0,China,
+BA,Boeing Company (The) Common Stock,boeing,0,United States,
+CB,Chubb Limited  Common Stock,"chubb,limited",0,Switzerland,
+DUK,Duke Energy Corporation (Holding Company) Common Stock,"duke,energy",0,United States,
+INFY,Infosys Limited American Depositary Shares,infosys,0,India,
+AMAT,Applied Materials Inc. Common Stock,"applied,materials",0,United States,1972
+PDD,Pinduoduo Inc. American Depositary Shares,pinduoduo,0,China,2018
+GILD,Gilead Sciences Inc. Common Stock,gilead,0,United States,1992
+MMC,Marsh & McLennan Companies Inc. Common Stock,"marsh,&",0,United States,
+ADI,Analog Devices Inc. Common Stock,"analog,devices",0,United States,
+SYK,Stryker Corporation Common Stock,stryker,0,United States,
+SO,Southern Company (The) Common Stock,"southern,company",0,United States,
+MO,Altria Group Inc.,"altria,group",0,United States,
+PBR,Petroleo Brasileiro S.A.- Petrobras Common Stock,"petroleo,brasileiro",0,Brazil,
+BAM,Brookfield Asset Management Inc. Common Stock,"brookfield,asset",0,Canada,1925
+VRTX,Vertex Pharmaceuticals Incorporated Common Stock,"vertex,pharmaceuticals",0,United States,1991
+CME,CME Group Inc. Class A Common Stock,cme,0,United States,2002
+ISRG,Intuitive Surgical Inc. Common Stock,"intuitive,surgical",0,United States,2000
+NOC,Northrop Grumman Corporation Common Stock,northrop,0,United States,
+CCI,Crown Castle International Corp. (REIT) Common Stock,"crown,castle",0,United States,
+MMM,3M Company Common Stock,3m,0,United States,
+BKNG,Booking Holdings Inc. Common Stock,"booking,holdings",0,United States,
+BX,Blackstone Inc. Common Stock,blackstone,0,United States,2007
+PGR,Progressive Corporation (The) Common Stock,"progressive,corporation",0,United States,
+BDX,Becton Dickinson and Company Common Stock,"becton,dickinson",0,United States,
+TJX,TJX Companies Inc. (The) Common Stock,tjx,0,United States,
+TGT,Target Corporation Common Stock,"target,corporation",0,United States,
+USB,U.S. Bancorp Common Stock,"us,bancorp",0,United States,
+BNS,Bank Nova Scotia Halifax Pfd 3 Ordinary Shares,"bank,nova",0,Canada,
+GE,General Electric Company Common Stock,"general,electric",0,United States,
+VALE,VALE S.A.  American Depositary Shares Each Representing one common share,"vale,sa",0,Brazil,
+MRNA,Moderna Inc. Common Stock,moderna,0,United States,2018
+MUFG,Mitsubishi UFJ Financial Group Inc. Common Stock,mitsubishi,0,Japan,
+PNC,PNC Financial Services Group Inc. (The) Common Stock,"pnc,financial",0,United States,
+CP,Canadian Pacific Railway Limited Common Stock,"canadian,pacific",0,Canada,
+REGN,Regeneron Pharmaceuticals Inc. Common Stock,"regeneron,pharmaceuticals",0,United States,1991
+CL,Colgate-Palmolive Company Common Stock,colgate,0,United States,
+IBN,ICICI Bank Limited Common Stock,icici,0,India,
+MU,Micron Technology Inc. Common Stock,micron,0,United States,
+D,Dominion Energy Inc. Common Stock,"dominion,energy",0,United States,
+TFC,Truist Financial Corporation Common Stock,"truist,financial",0,United States,
+WM,Waste Management Inc. Common Stock,"waste,management",0,United States,
+AMOV,America Movil S.A.B. de C.V. Class A American Depositary Shares,"america,movil",0,Mexico,
+CSX,CSX Corporation Common Stock,csx,0,United States,
+BMO,Bank Of Montreal Common Stock,bmo,pass,Canada,
+AMX,America Movil S.A.B. de C.V. American Depository Receipt Series L,[],0,Mexico,
+SHW,Sherwin-Williams Company (The) Common Stock,"sherwin,williams",0,United States,
+EOG,EOG Resources Inc. Common Stock,"eog,resources",0,United States,
+ATVI,Activision Blizzard Inc. Common Stock,blizzard,0,United States,
+GD,General Dynamics Corporation Common Stock,"general,dynamics",0,United States,
+EW,Edwards Lifesciences Corporation Common Stock,"edwards,lifesciences",0,United States,
+FISV,Fiserv Inc. Common Stock,fiserv,0,United States,1986
+HUM,Humana Inc. Common Stock,humana,0,United States,
+EQIX,Equinix Inc. Common Stock REIT,equinix,0,United States,2000
+FDX,FedEx Corporation Common Stock,fedex,0,United States,
+AON,Aon plc Class A Ordinary Shares (Ireland),"aon,class",0,United States,
+NTES,NetEase Inc. American Depositary Shares,netease,0,China,
+ABNB,Airbnb Inc. Class A Common Stock,airbnb,0,United States,2020
+DG,Dollar General Corporation Common Stock,"dollar,general",0,United States,2009
+ITW,Illinois Tool Works Inc. Common Stock,"illinois,tool",0,United States,
+OXY,Occidental Petroleum Corporation Common Stock,occidental,0,United States,
+CNQ,Canadian Natural Resources Limited Common Stock,[],pass,Canada,
+LRCX,Lam Research Corporation Common Stock,"lam,research",0,United States,1984
+FIS,Fidelity National Information Services Inc. Common Stock,fidelity,0,United States,
+PSA,Public Storage Common Stock,"public,storage",0,United States,
+NSC,Norfolk Southern Corporation Common Stock,"norfolk,southern",0,United States,
+SNP,China Petroleum & Chemical Corporation Common Stock,"china,petroleum",0,China,
+TEAM,Atlassian Corporation Plc Class A Ordinary Shares,atlassian,0,United Kingdom,2015
+BSX,Boston Scientific Corporation Common Stock,"boston,scientific",0,United States,
+ICE,Intercontinental Exchange Inc. Common Stock,"intercontinental,exchange",0,United States,2005
+EPD,Enterprise Products Partners L.P. Common Stock,"enterprise,products",0,United States,
+BIDU,Baidu Inc. ADS,baidu,0,China,2005
+UBS,UBS Group AG Registered Ordinary Shares,ubs,0,Switzerland,2014
+MCO,Moody's Corporation Common Stock,moody's,0,United States,
+PXD,Pioneer Natural Resources Company Common Stock,"pioneer,natural",0,United States,
+APD,Air Products and Chemicals Inc. Common Stock,"air,products",0,United States,
+RELX,RELX PLC PLC American Depositary Shares (Each representing One Ordinary Share),relx,0,United Kingdom,2015
+ABB,ABB Ltd Common Stock,abb,0,Switzerland,
+ETN,Eaton Corporation PLC Ordinary Shares,"eaton,corporation",0,Ireland,
+HCA,HCA Healthcare Inc. Common Stock,hca,0,United States,2011
+PANW,Palo Alto Networks Inc. Common Stock,"alto,networks",0,United States,
+TRI,Thomson Reuters Corp Ordinary Shares,[],pass,United States,
+MNST,Monster Beverage Corporation,"monster,beverage",0,United States,
+KDP,Keurig Dr Pepper Inc. Common Stock,keurig,0,United States,
+MET,MetLife Inc. Common Stock,metlife,0,United States,2000
+TRP,TC Energy Corporation Common Stock,"tc,energy",0,Canada,
+SNOW,Snowflake Inc. Class A Common Stock,snowflake,0,United States,2020
+CNC,Centene Corporation Common Stock,centene,0,United States,
+SNPS,Synopsys Inc. Common Stock,synopsys,0,United States,1992
+VMW,Vmware Inc. Common stock Class A,vmware,0,United States,2007
+SLB,Schlumberger N.V. Common Stock,schlumberger,0,France,
+FTNT,Fortinet Inc. Common Stock,fortinet,0,United States,2009
+AEP,American Electric Power Company Inc. Common Stock,"american,electric",0,United States,
+EMR,Emerson Electric Company Common Stock,"emerson,electric",0,United States,
+GM,General Motors Company Common Stock,"general,motors",0,United States,2010
+NGG,National Grid Transco PLC National Grid PLC (NEW) American Depositary Shares,"national,grid",0,United Kingdom,
+NEM,Newmont Corporation,newmont,0,United States,
+SU,Suncor Energy  Inc. Common Stock,suncor,0,Canada,
+F,Ford Motor Company Common Stock,ford,0,United States,
+KHC,The Kraft Heinz Company Common Stock,"kraft,Heinz",0,United States,
+SRE,DBA Sempra Common Stock,"dba,sempra",0,United States,
+MCK,McKesson Corporation Common Stock,mckesson,0,United States,
+LHX,L3Harris Technologies Inc. Common Stock,l3harris,0,United States,
+KMB,Kimberly-Clark Corporation Common Stock,kimberly-clark,0,United States,
+LFC,China Life Insurance Company Limited American Depositary Shares,"china,life",0,China,2003
+MAR,Marriott International Class A Common Stock,marriott,0,United States,
+ECL,Ecolab Inc. Common Stock,ecolab,0,United States,
+HSY,The Hershey Company Common Stock,hershey,0,United States,
+MPC,Marathon Petroleum Corporation Common Stock,"marathon,petroleum",0,United States,
+GIS,General Mills Inc. Common Stock,"general,mills",0,United States,
+TAK,Takeda Pharmaceutical Company Limited American Depositary Shares (each representing 1/2 of a share of Common Stock),"takeda,pharmaceutical",0,,2018
+BCE,BCE Inc. Common Stock,bce,0,Canada,
+KLAC,KLA Corporation Common Stock,kla,0,United States,1980
+SAN,Banco Santander S.A. Sponsored ADR (Spain),"banco,santander",0,Spain,
+UBER,Uber Technologies Inc. Common Stock,uber,0,,2019
+AIG,American International Group Inc. New Common Stock,aig,0,United States,
+SHOP,Shopify Inc. Class A Subordinate Voting Shares,shopify,0,Canada,2015
+CM,Canadian Imperial Bank of Commerce Common Stock,[],pass,Canada,
+CDNS,Cadence Design Systems Inc. Common Stock,"cadence,design",0,United States,
+CRWD,CrowdStrike Holdings Inc. Class A Common Stock,crowdstrike,0,United States,2019
+STZ,Constellation Brands Inc. Common Stock,"constellation,brands",0,United States,
+SYY,Sysco Corporation Common Stock,sysco,0,United States,
+EXC,Exelon Corporation Common Stock,exelon,0,United States,
+ORLY,O'Reilly Automotive Inc. Common Stock,o'reilly,0,United States,1993
+VLO,Valero Energy Corporation Common Stock,"valero,energy",0,United States,
+VOD,Vodafone Group Plc American Depositary Shares,vodafone,0,United Kingdom,
+SE,Sea Limited American Depositary Shares each representing one Class A Ordinary Share,"sea,limited",0,United States,2017
+COF,Capital One Financial Corporation Common Stock,"capital,one",0,United States,1994
+ROP,Roper Technologies Inc. Common Stock,"roper,technologies",0,United States,1992
+NTR,Nutrien Ltd. Common Shares,nutrien,0,,2018
+FCX,Freeport-McMoRan Inc. Common Stock,freeport-mcmoran,0,United States,
+AZO,AutoZone Inc. Common Stock,autozone,0,United States,
+PAYX,Paychex Inc. Common Stock,paychex,0,United States,1983
+ADM,Archer-Daniels-Midland Company Common Stock,archer-daniels-midland,0,United States,
+ITUB,Itau Unibanco Banco Holding SA American Depositary Shares (Each repstg 500 Preferred shares),"itau,unibanco",0,Brazil,
+IQV,IQVIA Holdings Inc. Common Stock,iqvia,0,United States,2013
+ABEV,Ambev S.A. American Depositary Shares (Each representing 1 Common Share),ambev,0,,2013
+O,Realty Income Corporation Common Stock,"realty,income",0,United States,
+HMC,Honda Motor Company Ltd. Common Stock,honda,0,Japan,
+RSG,Republic Services Inc. Common Stock,"republic,services",0,United States,1998
+BNTX,BioNTech SE American Depositary Share,biontech,0,Germany,2019
+TRV,The Travelers Companies Inc. Common Stock,"the,travelers",0,United States,
+SMFG,Sumitomo Mitsui Financial Group Inc Unsponsored American Depositary Shares (Japan),sumitomo,0,Japan,
+NXPI,NXP Semiconductors N.V. Common Stock,nxp,0,Netherlands,2010
+SQ,Block Inc. Class A Common Stock,"block,inc",0,United States,2015
+BSBR,Banco Santander Brasil SA American Depositary Shares each representing one unit,[],0,Brazil,2009
+PSX,Phillips 66 Common Stock,"phillips,66",0,United States,
+E,ENI S.p.A. Common Stock,eni,0,Italy,
+SCCO,Southern Copper Corporation Common Stock,"southern,copper",0,United States,
+MRVL,Marvell Technology Inc. Common Stock,marvell,0,Bermuda,2000
+ADSK,Autodesk Inc. Common Stock,autodesk,0,United States,
+APH,Amphenol Corporation Common Stock,amphenol,0,United States,
+CTAS,Cintas Corporation Common Stock,"cintas,corporation",0,United States,1983
+STLA,Stellantis N.V. Common Shares,stellantis,0,United Kingdom,2014
+KMI,Kinder Morgan Inc. Common Stock,"kinder,morgan",0,United States,2011
+CTVA,Corteva Inc. Common Stock ,corteva,0,,2019
+DOW,Dow Inc. Common Stock ,[],mingle,,2019
+TEL,TE Connectivity Ltd. New Switzerland Registered Shares,"te,connectivity",0,Switzerland,
+WMB,Williams Companies Inc. (The) Common Stock,"williams,companies",0,United States,
+LI,Li Auto Inc. American Depositary Shares,"li,auto",0,China,2020
+DLTR,Dollar Tree Inc. Common Stock,"dollar,tree",0,United States,1995
+XEL,Xcel Energy Inc. Common Stock,"xcel,energy",0,United States,
+CMG,Chipotle Mexican Grill Inc. Common Stock,chipotle,0,United States,2006
+NIO,NIO Inc. American depositary shares each  representing one Class A ordinary share,nio,0,,2018
+WDAY,Workday Inc. Class A Common Stock,"workday,inc",0,United States,
+LULU,lululemon athletica inc. Common Stock,lululemon,0,Canada,2007
+WELL,Welltower Inc. Common Stock,welltower,0,United States,
+A,Agilent Technologies Inc. Common Stock,"agilent,technologies",0,United States,1999
+MSI,Motorola Solutions Inc. Common Stock,motorola,0,United States,
+DLR,Digital Realty Trust Inc. Common Stock,"digital,realty",0,United States,2004
+MELI,MercadoLibre Inc. Common Stock,mercadolibre,0,Argentina,2007
+AFL,AFLAC Incorporated Common Stock,aflac,0,United States,
+PRU,Prudential Financial Inc. Common Stock,[],0,United States,2001
+ALL,Allstate Corporation (The) Common Stock,allstate,0,United States,
+ZM,Zoom Video Communications Inc. Class A Common Stock,"zoom,video",0,United States,2019
+CVE,Cenovus Energy Inc Common Stock,cenovus,0,Canada,
+DVN,Devon Energy Corporation Common Stock,"devon,energy",0,United States,1985
+MSCI,MSCI Inc Common Stock,msci,0,United States,
+ING,ING Group N.V. Common Stock,"ing,group",0,Netherlands,1997
+ALC,Alcon Inc. Ordinary Shares,alcon,0,Switzerland,2019
+CTSH,Cognizant Technology Solutions Corporation Class A Common Stock,cognizant,0,United States,1998
+RACE,Ferrari N.V. Common Shares,ferrari,0,,2015
+SBAC,SBA Communications Corporation Class A Common Stock,sba,0,United States,1999
+AJG,Arthur J. Gallagher & Co. Common Stock,"j,gallagher",0,United States,
+EA,Electronic Arts Inc. Common Stock,"electronic,arts",0,United States,
+KR,Kroger Company (The) Common Stock,kroger,0,United States,
+LYG,Lloyds Banking Group Plc American Depositary Shares,"lloyds,banking",0,United Kingdom,
+BBD,Banco Bradesco Sa American Depositary Shares,"banco,bradesco",0,Brazil,
+PUK,Prudential Public Limited Company Common Stock,prudential,0,United Kingdom,
+BK,The Bank of New York Mellon Corporation Common Stock,[],pass,United States,
+DDOG,Datadog Inc. Class A Common Stock,datadog,0,United States,2019
+YUM,Yum! Brands Inc.,yum!,0,United States,
+MFC,Manulife Financial Corporation Common Stock,manulife,0,Canada,
+LNG,Cheniere Energy Inc. Common Stock,[],0,United States,2001
+LCID,Lucid Group Inc. Common Stock,lucid,0,United States,
+CHT,Chunghwa Telecom Co. Ltd.,"chunghwa,telecom",0,Taiwan,
+WBA,Walgreens Boots Alliance Inc. Common Stock,"walgreens,boots",0,United States,
+JCI,Johnson Controls International plc Ordinary Share,"johnson,controls",0,Switzerland,
+HPQ,HP Inc. Common Stock,hp,0,United States,
+BAX,Baxter International Inc. Common Stock,baxter,0,United States,
+SGEN,Seagen Inc. Common Stock,seagen,0,United States,2001
+ED,Consolidated Edison Inc. Common Stock,"consolidated,edison",0,United States,
+MCHP,Microchip Technology Incorporated Common Stock,"microchip,technology",0,United States,1993
+VEEV,Veeva Systems Inc. Class A Common Stock,veeva,0,,2013
+WCN,Waste Connections Inc. Common Shares,"waste,connections",0,Canada,
+RMD,ResMed Inc. Common Stock,resmed,0,United States,
+PH,Parker-Hannifin Corporation Common Stock,parker-hannifin,0,United States,
+SPG,Simon Property Group Inc. Common Stock,"simon,property",0,United States,
+DXCM,DexCom Inc. Common Stock,dexcom,0,United States,2005
+IDXX,IDEXX Laboratories Inc. Common Stock,idexx,0,United States,1991
+GPN,Global Payments Inc. Common Stock,"global,payments",0,United States,
+BIIB,Biogen Inc. Common Stock,biogen,0,United States,
+ILMN,Illumina Inc. Common Stock,illumina,0,United States,2000
+DELL,Dell Technologies Inc. Class C Common Stock ,dell,0,,2018
+HLT,Hilton Worldwide Holdings Inc. Common Stock ,hilton,0,,2016
+WEC,WEC Energy Group Inc. Common Stock,"wec,energy",0,United States,
+ANET,Arista Networks Inc. Common Stock,"arista,networks",0,,2014
+PEG,Public Service Enterprise Group Incorporated Common Stock,[],pass,United States,
+TSN,Tyson Foods Inc. Common Stock,"tyson,foods",0,United States,
+HES,Hess Corporation Common Stock,hess,0,United States,
+ODFL,Old Dominion Freight Line Inc. Common Stock,"old,dominion",0,United States,1991
+CARR,Carrier Global Corporation Common Stock ,"carrier,global",0,,2020
+TU,Telus Corporation Ordinary Shares,telus,0,Canada,
+GOLD,Barrick Gold Corporation Common Stock (BC),"barrick,gold",0,Canada,
+TT,Trane Technologies plc,"trane,technologies",0,Ireland,
+ET,Energy Transfer LP Common Units ,"energy,transfer",0,United States,
+BCS,Barclays PLC Common Stock,barclays,0,United Kingdom,
+APO,Apollo Global Management Inc. (New) Common Stock,"apollo,global",0,,
+IFF,International Flavors & Fragrances Inc. Common Stock,"international,flavors",0,United States,
+WIT,Wipro Limited Common Stock,"wipro,limited",0,India,
+VICI,VICI Properties Inc. Common Stock,vici,0,,2018
+TWTR,Twitter Inc. Common Stock,[],mingle,,2013
+OTIS,Otis Worldwide Corporation Common Stock ,otis,0,,2020
+ABC,AmerisourceBergen Corporation Common Stock,amerisourcebergen,0,United States,
+NUE,Nucor Corporation Common Stock,nucor,0,United States,
+MPLX,MPLX LP Common Units Representing Limited Partner Interests,mplx,0,United States,2012
+FAST,Fastenal Company Common Stock,fastenal,0,United States,1987
+TDG,Transdigm Group Incorporated Common Stock,transdigm,0,United States,2006
+LYB,LyondellBasell Industries NV Ordinary Shares Class A (Netherlands),lyondellbasell,0,Netherlands,
+ORAN,Orange,"orange,sa",0,France,
+MFG,Mizuho Financial Group Inc. Sponosred ADR (Japan),"mizuho,financial",0,Japan,
+KKR,KKR & Co. Inc. Common Stock,"kkr,&",0,United States,
+ES,Eversource Energy (D/B/A) Common Stock,eversource,0,United States,
+DD,DuPont de Nemours Inc. Common Stock,dupont,0,,2017
+PCAR,PACCAR Inc. Common Stock,paccar,0,United States,
+CPNG,Coupang Inc. Class A Common Stock,coupang,0,,2021
+MTB,M&T Bank Corporation Common Stock,m&t,0,United States,
+RIVN,Rivian Automotive Inc. Class A Common Stock,rivian,0,United States,2021
+CMI,Cummins Inc. Common Stock,cummins,0,United States,
+BBDO,Banco Bradesco Sa American Depositary Shares (each representing one Common Share),[],0,Brazil,
+IMO,Imperial Oil Limited Common Stock,"imperial,oil",0,Canada,1929
+PPG,PPG Industries Inc. Common Stock,"ppg,industries",0,United States,
+BBVA,Banco Bilbao Vizcaya Argentaria S.A. Common Stock,"banco,bilbao",0,Spain,
+VRSK,Verisk Analytics Inc. Common Stock,verisk,0,United States,2009
+BKR,Baker Hughes Company Class A Common Stock,"baker,hughes",0,United States,
+DFS,Discover Financial Services Common Stock,"discover,financial",0,United States,
+ENPH,Enphase Energy Inc. Common Stock,enphase,0,United States,2012
+TEF,Telefonica SA Common Stock,telefonica,0,Spain,1988
+AWK,American Water Works Company Inc. Common Stock,"american,water",0,United States,2008
+STM,STMicroelectronics N.V. Common Stock,stmicroelectronics,0,Switzerland,
+NWG,NatWest Group plc American Depositary Shares,natwest,0,United Kingdom,
+XPEV,XPeng Inc. American depositary shares each representing two Class A ordinary shares,xpeng,0,China,2020
+GLW,Corning Incorporated Common Stock,"corning,incorporated",0,United States,
+MTD,Mettler-Toledo International Inc. Common Stock,mettler-toledo,0,Switzerland,1997
+CPRT,Copart Inc. (DE) Common Stock,copart,0,United States,1994
+FRC,FIRST REPUBLIC BANK Common Stock,"first,republic",0,United States,
+EQR,Equity Residential Common Shares of Beneficial Interest,"equity,residential",0,United States,
+TROW,T. Rowe Price Group Inc. Common Stock,"rowe,price",0,United States,1986
+LVS,Las Vegas Sands Corp. Common Stock,"vegas,sands",0,United States,2004
+HAL,Halliburton Company Common Stock,halliburton,0,United States,
+AVB,AvalonBay Communities Inc. Common Stock,avalonbay,0,United States,
+ROST,Ross Stores Inc. Common Stock,"ross,stores",0,United States,1985
+SLF,Sun Life Financial Inc. Common Stock,"sun,life",0,Canada,
+DASH,DoorDash Inc. Class A Common Stock,doordash,0,,2020
+TLK,PT Telekomunikasi Indonesia Tbk,"pt,telekomunikasi",0,Indonesia,
+HRL,Hormel Foods Corporation Common Stock,hormel,0,United States,
+AME,AMETEK Inc.,ametek,0,United States,
+AMP,Ameriprise Financial Inc. Common Stock,ameriprise,0,United States,
+CRH,CRH PLC American Depositary Shares,crh,0,Ireland,
+NOK,Nokia Corporation Sponsored American Depositary Shares,"nokia,corporation",0,Finland,1994
+NDAQ,Nasdaq Inc. Common Stock,[],mingle,United States,
+KEYS,Keysight Technologies Inc. Common Stock,keysight,0,United States,2014
+WY,Weyerhaeuser Company Common Stock,weyerhaeuser,0,United States,
+DHI,D.R. Horton Inc. Common Stock,"dr,horton",0,United States,
+FNV,Franco-Nevada Corporation,franco-nevada,0,Canada,
+SQM,Sociedad Quimica y Minera S.A. Common Stock,"sociedad,quimica",0,Chile,1993
+ERIC,Ericsson American Depositary Shares,ericsson,0,Sweden,
+OKE,ONEOK Inc. Common Stock,oneok,0,United States,
+APTV,Aptiv PLC Ordinary Shares,aptiv,0,United Kingdom,2011
+SIVB,SVB Financial Group Common Stock,svb,0,United States,
+CBRE,CBRE Group Inc Common Stock Class A,cbre,0,United States,
+SNAP,Snap Inc. Class A Common Stock,snapchat,0,United States,2017
+K,Kellogg Company Common Stock,kellogg,0,United States,
+SIRI,Sirius XM Holdings Inc. Common Stock,sirius,0,United States,
+EBAY,eBay Inc. Common Stock,ebay,0,United States,1998
+CSGP,CoStar Group Inc. Common Stock,"costar,group",0,United States,1998
+ARE,Alexandria Real Estate Equities Inc. Common Stock,"alexandria,real",0,United States,
+DTE,DTE Energy Company Common Stock,"dte,energy",0,United States,
+GWW,W.W. Grainger Inc. Common Stock,"ww,grainger",0,United States,
+RCI,Rogers Communication Inc. Common Stock,"rogers,communication",0,Canada,
+EIX,Edison International Common Stock,"edison,international",0,United States,
+FERG,Ferguson plc Ordinary Shares,"ferguson,plc",0,,2021
+ALB,Albemarle Corporation Common Stock,"albemarle,corporation",0,United States,
+ZS,Zscaler Inc. Common Stock,zscaler,0,United States,2018
+WST,West Pharmaceutical Services Inc. Common Stock,"west,pharmaceutical",0,United States,
+CCEP,Coca-Cola Europacific Partners plc Ordinary Shares,"coca-cola,europacific",0,United Kingdom,
+CAJ,Canon Inc. American Depositary Shares,canon,0,Japan,
+ROK,Rockwell Automation Inc. Common Stock,"rockwell,automation",0,United States,
+CLR,Continental Resources Inc. Common Stock,"continental,resources",0,United States,2007
+RBLX,Roblox Corporation Class A Common Stock,roblox,0,,2021
+GFS,GlobalFoundries Inc. Ordinary Shares,globalfoundries,0,United States,2021
+STT,State Street Corporation Common Stock,"state,street",0,United States,
+EFX,Equifax Inc. Common Stock,equifax,0,United States,
+FITB,Fifth Third Bancorp Common Stock,"fifth,third",0,United States,
+EXR,Extra Space Storage Inc Common Stock,"extra,space",0,United States,2004
+CHD,Church & Dwight Company Inc. Common Stock,"church,&",0,United States,
+AEE,Ameren Corporation Common Stock,ameren,0,United States,
+TSCO,Tractor Supply Company Common Stock,"tractor,supply",0,United States,1994
+LH,Laboratory Corporation of America Holdings Common Stock,"laboratory,corporation",0,United States,
+LEN,Lennar Corporation Class A Common Stock,lennar,0,United States,
+ON,ON Semiconductor Corporation Common Stock,"on,semiconductor",0,United States,
+ETR,Entergy Corporation Common Stock,entergy,0,United States,
+WTW,Willis Towers Watson Public Limited Company Ordinary Shares,"willis,towers",0,United Kingdom,2001
+INVH,Invitation Homes Inc. Common Stock,"invitation,homes",0,United States,2017
+ZBH,Zimmer Biomet Holdings Inc. Common Stock,"zimmer,biomet",0,United States,
+MKC,McCormick & Company Incorporated Common Stock,"mccormick,&",0,United States,
+GMAB,Genmab A/S ADS,genmab,0,Denmark,2019
+TTD,The Trade Desk Inc. Class A Common Stock,"trade,desk",0,United States,2016
+DRE,Duke Realty Corporation Common Stock,"duke,realty",0,United States,
+FTS,Fortis Inc. Common Shares,"fortis,inc",0,,2016
+ANSS,ANSYS Inc. Common Stock,ansys,0,United States,1996
+LUV,Southwest Airlines Company Common Stock,"southwest,airlines",0,United States,
+HIG,Hartford Financial Services Group Inc. (The) Common Stock,[],0,United States,
+ZTO,ZTO Express (Cayman) Inc. American Depositary Shares each representing one Class A ordinary share.,zto,0,China,2016
+MTCH,Match Group Inc. Common Stock,"match,group",0,United States,
+CQP,Cheniere Energy Partners LP Cheniere Energy Partners LP Common Units,"cheniere,energy",0,United States,2007
+CDW,CDW Corporation Common Stock,"cdw,corporation",0,United States,2013
+FMX,Fomento Economico Mexicano S.A.B. de C.V. Common Stock,femsa,0,Mexico,
+MDB,MongoDB Inc. Class A Common Stock,mongodb,0,United States,2017
+BEKE,KE Holdings Inc American Depositary Shares (each representing three Class A Ordinary Shares),"ke,holdings",0,China,2020
+CTRA,Coterra Energy Inc. Common Stock,coterra,0,United States,
+FE,FirstEnergy Corp. Common Stock,firstenergy,0,United States,
+TTM,Tata Motors Ltd Tata Motors Limited,tata,0,India,
+EC,Ecopetrol S.A. American Depositary Shares,"ecopetrol,sa",0,Colombia,
+PLTR,Palantir Technologies Inc. Class A Common Stock,palantir,0,,2020
+STE,STERIS plc (Ireland) Ordinary Shares,steris,0,United States,
+WAT,Waters Corporation Common Stock,"waters,corporation",0,United States,1995
+AEM,Agnico Eagle Mines Limited Common Stock,agnico,0,Canada,
+TTWO,Take-Two Interactive Software Inc. Common Stock,take-two,0,United States,1997
+ALGN,Align Technology Inc. Common Stock,"align,technology",0,United States,2001
+FANG,Diamondback Energy Inc. Commmon Stock,"diamondback,energy",0,United States,2012
+SPOT,Spotify Technology S.A. Ordinary Shares,spotify,0,Luxembourg,2018
+YUMC,Yum China Holdings Inc. Common Stock,"yum,china",0,United States,2016
+VTR,Ventas Inc. Common Stock,ventas,0,United States,
+NTRS,Northern Trust Corporation Common Stock,"northern,trust",0,United States,
+PCG,Pacific Gas & Electric Co. Common Stock,"pacific,gas",0,United States,
+GRMN,Garmin Ltd. Common Stock (Switzerland),garmin,0,Switzerland,2000
+PPL,PPL Corporation Common Stock,"ppl,corporation",0,United States,
+FTV,Fortive Corporation Common Stock ,fortive,0,,2016
+ARGX,argenx SE American Depositary Shares,argenx,0,Netherlands,2017
+CTLT,Catalent Inc. Common Stock,catalent,0,United States,2014
+ULTA,Ulta Beauty Inc. Common Stock,"ulta,beauty",0,United States,2007
+BGNE,BeiGene Ltd. American Depositary Shares,beigene,0,Cayman Islands,2016
+MAA,Mid-America Apartment Communities Inc. Common Stock,"mid-america,apartment",0,United States,1994
+IT,Gartner Inc. Common Stock,gartner,0,United States,1993
+SUI,Sun Communities Inc. Common Stock,"sun,communities",0,United States,1993
+RJF,Raymond James Financial Inc. Common Stock,"raymond,james",0,United States,
+PAYC,Paycom Software Inc. Common Stock,paycom,0,,2014
+PBA,Pembina Pipeline Corp. Ordinary Shares (Canada),"pembina,pipeline",0,Canada,
+LYV,Live Nation Entertainment Inc. Common Stock,"live,nation",0,United States,
+IX,Orix Corp Ads Common Stock,"orix,bank",0,Japan,
+GIB,CGI Inc. Common Stock,cgi,0,Canada,
+VMC,Vulcan Materials Company (Holding Company) Common Stock,"vulcan,materials",0,United States,
+VRSN,VeriSign Inc. Common Stock,verisign,0,United States,1998
+GPC,Genuine Parts Company Common Stock,"genuine,parts",0,United States,
+MT,Arcelor Mittal NY Registry Shares NEW,arcelormittal,0,Luxembourg,
+EBR,Centrais Electricas Brasileiras S A American Depositary Shares (Each representing one Common Share),"centrais,electricas",0,,2016
+MLM,Martin Marietta Materials Inc. Common Stock,"martin,marietta",0,United States,1994
+CEG,Constellation Energy Corporation Common Stock ,"constellation,energy",0,United States,
+AVTR,Avantor Inc. Common Stock,avantor,0,,2019
+CMS,CMS Energy Corporation Common Stock,"cms,energy",0,United States,
+NU,Nu Holdings Ltd. Class A Ordinary Shares,"nu,holdings",0,,2021
+HZNP,Horizon Therapeutics Public Limited Company Ordinary Shares,"horizon,therapeutics",0,Ireland,2011
+DAL,Delta Air Lines Inc. Common Stock,"delta,air",0,United States,
+CINF,Cincinnati Financial Corporation Common Stock,"cincinnati,financial",0,United States,
+AMCR,Amcor plc Ordinary Shares,amcor,0,,2019
+PWR,Quanta Services Inc. Common Stock,"quanta,services",0,United States,
+LBRDK,Liberty Broadband Corporation Class C Common Stock,[],0,United States,
+EPAM,EPAM Systems Inc. Common Stock,"epam,systems",0,United States,2012
+PARAA,Paramount Global Class A Common Stock,"paramount,global",0,United States,
+RPRX,Royalty Pharma plc Class A Ordinary Shares ,"royalty,pharma",0,United States,2020
+FOXA,Fox Corporation Class A Common Stock,[],0,United States,
+LBRDA,Liberty Broadband Corporation Class A Common Stock,"liberty,broadband",0,United States,
+PHG,Koninklijke Philips N.V. NY Registry Shares,"koninklijke,philips",0,Netherlands,
+ALNY,Alnylam Pharmaceuticals Inc. Common Stock,alnylam,0,United States,2004
+PKI,PerkinElmer Inc. Common Stock,perkinelmer,0,United States,
+CNP,CenterPoint Energy Inc (Holding Co) Common Stock,"centerpoint,energy",0,United States,
+HEI,Heico Corporation Common Stock,heico,0,United States,2000
+ICLR,ICON plc Ordinary Shares,"icon,plc",0,Ireland,1998
+CFG,Citizens Financial Group Inc. Common Stock,"citizens,financial",0,United States,2014
+MPWR,Monolithic Power Systems Inc. Common Stock,"monolithic,power",0,United States,2004
+TDY,Teledyne Technologies Incorporated Common Stock,teledyne,0,United States,
+ROL,Rollins Inc. Common Stock,"rollins,inc",0,United States,
+URI,United Rentals Inc. Common Stock,"united,rentals",0,United States,1997
+WRB,W.R. Berkley Corporation Common Stock,"wr,berkley",0,United States,
+CLX,Clorox Company (The) Common Stock,clorox,0,United States,
+HOLX,Hologic Inc. Common Stock,hologic,0,United States,1990
+INCY,Incyte Corp. Common Stock,incyte,0,United States,
+CHWY,Chewy Inc. Class A Common Stock,chewy,0,,2019
+DOV,Dover Corporation Common Stock,"dover,corporation",0,United States,
+HBAN,Huntington Bancshares Incorporated Common Stock,"huntington,bancshares",0,United States,
+VFC,V.F. Corporation Common Stock,vf,0,United States,
+AGR,Avangrid Inc. Common Stock,avangrid,0,United States,2015
+RF,Regions Financial Corporation Common Stock,"regions,financial",0,United States,
+MKL,Markel Corporation Common Stock,"markel,corporation",0,United States,1986
+CF,CF Industries Holdings Inc. Common Stock,"cf,industries",0,United States,2005
+BIP,Brookfield Infrastructure Partners LP Limited Partnership Units,"brookfield,infrastructure",0,Bermuda,
+IR,Ingersoll Rand Inc. Common Stock,"ingersoll,rand",0,United States,2017
+BR,Broadridge Financial Solutions Inc. Common Stock,"broadridge,financial",0,United States,
+JBHT,J.B. Hunt Transport Services Inc. Common Stock,"hunt,transport",0,United States,
+ESS,Essex Property Trust Inc. Common Stock,"essex,property",0,United States,1994
+NET,Cloudflare Inc. Class A Common Stock,cloudflare,0,United States,2019
+FOX,Fox Corporation Class B Common Stock,"fox,corporation",0,United States,
+TCOM,Trip.com Group Limited American Depositary Shares,tripcom,0,China,2003
+BRO,Brown & Brown Inc. Common Stock,"brown,&",0,United States,
+TWLO,Twilio Inc. Class A Common Stock,twilio,0,United States,2016
+UMC,United Microelectronics Corporation (NEW) Common Stock,"united,microelectronics",0,Taiwan,
+ELP,Companhia Paranaense de Energia (COPEL) American Depositary Shares (each representing one Unit consisting one Common Share and four non-voting Class B Preferred Shares),"companhia,paranaense",0,Brazil,2021
+PFG,Principal Financial Group Inc Common Stock,"principal,financial",0,United States,2001
+HPE,Hewlett Packard Enterprise Company Common Stock,"packard,enterprise",0,United States,2015
+SWK,Stanley Black & Decker Inc. Common Stock,"stanley,black",0,United States,
+CAG,ConAgra Brands Inc. Common Stock,conagra,0,United States,
+FLT,FleetCor Technologies Inc. Common Stock,fleetcor,0,United States,2010
+ACGL,Arch Capital Group Ltd. Common Stock,"arch,capital",0,Bermuda,
+PARA,Paramount Global Class B Common Stock,[],0,United States,
+DB,Deutsche Bank AG Common Stock,"deutsche,bank",0,Germany,
+MGA,Magna International Inc. Common Stock,magna,0,Canada,
+EXPD,Expeditors International of Washington Inc. Common Stock,expeditors,0,United States,
+KEY,KeyCorp Common Stock,keycorp,0,United States,
+MOH,Molina Healthcare Inc Common Stock,"molina,healthcare",0,United States,2003
+OKTA,Okta Inc. Class A Common Stock,okta,0,United States,2017
+BMRN,BioMarin Pharmaceutical Inc. Common Stock,biomarin,0,United States,1999
+MOS,Mosaic Company (The) Common Stock,"mosaic,company",0,United States,
+J,Jacobs Engineering Group Inc. Common Stock,"jacobs,engineering",0,United States,
+PODD,Insulet Corporation Common Stock,insulet,0,United States,2007
+SPLK,Splunk Inc. Common Stock,splunk,0,United States,2012
+TRU,TransUnion Common Stock,transunion,0,United States,2015
+ZBRA,Zebra Technologies Corporation Class A Common Stock,"zebra,technologies",0,United States,1991
+CHKP,Check Point Software Technologies Ltd. Ordinary Shares,"check,point",0,Israel,1996
+STX,Seagate Technology Holdings PLC Ordinary Shares (Ireland),seagate,0,Ireland,2002
+QSR,Restaurant Brands International Inc. Common Shares,"restaurant,brands",0,Canada,2014
+BBY,Best Buy Co. Inc. Common Stock,"best,buy",0,United States,
+IP,International Paper Company Common Stock,"international,paper",0,United States,
+WPM,Wheaton Precious Metals Corp Common Shares (Canada),"wheaton,precious",0,Canada,
+DGX,Quest Diagnostics Incorporated Common Stock,"quest,diagnostics",0,United States,
+SEDG,SolarEdge Technologies Inc. Common Stock,solaredge,0,Israel,2015
+SWKS,Skyworks Solutions Inc. Common Stock,skyworks,0,United States,
+COO,The Cooper Companies Inc. Common Stock,"the,cooper",0,United States,
+CNHI,CNH Industrial N.V. Common Shares,cnh,0,,2013
+ATO,Atmos Energy Corporation Common Stock,"atmos,energy",0,United States,
+TECK,Teck Resources Ltd Ordinary Shares,"teck,resources",0,Canada,
+POOL,Pool Corporation Common Stock,"pool,corporation",0,United States,1995
+WPC,W. P. Carey Inc. REIT,[],0,United States,
+RYAAY,Ryanair Holdings plc American Depositary Shares,ryanair,0,Ireland,1997
+MRO,Marathon Oil Corporation Common Stock,"marathon,oil",0,United States,
+UI,Ubiquiti Inc. Common Stock,ubiquiti,0,United States,
+WAB,Westinghouse Air Brake Technologies Corporation Common Stock,"westinghouse,air",0,United States,
+FDS,FactSet Research Systems Inc. Common Stock,"factset,research",0,United States,2000
+BIO,Bio-Rad Laboratories Inc. Class A Common Stock,bio-rad,0,United States,1980
+IEP,Icahn Enterprises L.P. Common Stock,"icahn,enterprises",0,United States,
+EXPE,Expedia Group Inc. Common Stock,expedia,0,United States,
+HUBS,HubSpot Inc. Common Stock,hubspot,0,United States,2014
+KMX,CarMax Inc,carmax,0,United States,
+TRMB,Trimble Inc. Common Stock,trimble,0,United States,1990
+SSNC,SS&C Technologies Holdings Inc. Common Stock,ss&c,0,United States,2010
+COIN,Coinbase Global Inc. Class A Common Stock,coinbase,0,United States,
+VIV,Telefonica Brasil S.A. American Depositary Shares (Each representing One Common Share),"telefonica,brasil",0,Brazil,2020
+ZI,ZoomInfo Technologies Inc Common Stock,zoominfo,0,United States,2020
+AKAM,Akamai Technologies Inc. Common Stock,"akamai,technologies",0,United States,1999
+SYF,Synchrony Financial Common Stock,"synchrony,financial",0,United States,2014
+EVRG,Evergy Inc. Common Stock,evergy,0,,2018
+GNRC,Generac Holdlings Inc. Common Stock,generac,0,United States,2010
+TS,Tenaris S.A. American Depositary Shares,tenaris,0,Luxembourg,
+TER,Teradyne Inc. Common Stock,teradyne,0,United States,
+DRI,Darden Restaurants Inc. Common Stock,"darden,restaurants",0,United States,
+DPZ,Domino's Pizza Inc Common Stock,"domino's,pizza",0,United States,2004
+CPB,Campbell Soup Company Common Stock,"campbell,soup",0,United States,
+UDR,UDR Inc. Common Stock,udr,0,United States,
+LKQ,LKQ Corporation Common Stock,lkq,0,United States,2003
+LNT,Alliant Energy Corporation Common Stock,"alliant,energy",0,United States,
+XYL,Xylem Inc. Common Stock New,xylem,0,United States,2011
+ACI,Albertsons Companies Inc. Class A Common Stock,"albertsons,companies",0,United States,2020
+LPLA,LPL Financial Holdings Inc. Common Stock,"lpl,financial",0,United States,2010
+TECH,Bio-Techne Corp Common Stock,bio-techne,0,United States,
+L,Loews Corporation Common Stock,"loews,corporation",0,United States,
+SHG,Shinhan Financial Group Co Ltd American Depositary Shares,shinhan,0,South Korea,
+TYL,Tyler Technologies Inc. Common Stock,"tyler,technologies",0,United States,
+CAH,Cardinal Health Inc. Common Stock,"cardinal,health",0,United States,
+NVR,NVR Inc. Common Stock,nvr,0,United States,1998
+FWONK,Liberty Media Corporation Series C Liberty Formula One Common Stock,[],0,United States,
+NTAP,NetApp Inc. Common Stock,netapp,0,United States,1995
+SSL,Sasol Ltd. American Depositary Shares,sasol,0,South Africa,
+AES,The AES Corporation Common Stock,"the,aes",0,United States,
+CPT,Camden Property Trust Common Stock,"camden,property",0,United States,1993
+PEAK,Healthpeak Properties Inc. Common Stock,healthpeak,0,United States,
+IEX,IDEX Corporation Common Stock,"idex,corporation",0,United States,1989
+IRM,Iron Mountain Incorporated (Delaware)Common Stock REIT,"iron,mountain",0,United States,
+CS,Credit Suisse Group American Depositary Shares,[],0,Switzerland,
+FMS,Fresenius Medical Care AG Common Stock,"fresenius,medical",0,Germany,
+APP,Applovin Corporation Class A Common Stock,applovin,0,United States,2021
+TW,Tradeweb Markets Inc. Class A Common Stock,tradeweb,0,United States,2019
+BXP,Boston Properties Inc. Common Stock,"boston,properties",0,United States,1997
+SJM,J.M. Smucker Company (The) New Common Stock,"jm,smucker",0,United States,
+WDC,Western Digital Corporation Common Stock,"western,digital",0,United States,
+SJR,Shaw Communications Inc. Common Stock,"shaw,communications",0,Canada,
+LDOS,Leidos Holdings Inc. Common Stock,leidos,0,United States,
+BILL,Bill.com Holdings Inc. Common Stock,billcom,0,,2019
+AVY,Avery Dennison Corporation Common Stock,"avery,dennison",0,United States,
+TRGP,Targa Resources Inc. Common Stock,"targa,resources",0,United States,2010
+HWM,Howmet Aerospace Inc. Common Stock,"howmet,aerospace",0,United States,
+ELS,Equity Lifestyle Properties Inc. Common Stock,"equity,lifestyle",0,United States,
+PKX,POSCO Holdings Inc. American Depositary Shares (Each representing 1/4th of a share of Common Stock),posco,0,South Korea,1994
+JKHY,Jack Henry & Associates Inc. Common Stock,"jack,henry",0,United States,1985
+DOCU,DocuSign Inc. Common Stock,docusign,0,United States,2018
+BG,Bunge Limited Bunge Limited,"bunge,limited",0,United States,2001
+PINS,Pinterest Inc. Class A Common Stock,"pinterest,inc",0,,2019
+CBOE,Cboe Global Markets Inc. Common Stock,"cboe,global",0,,2010
+NLOK,NortonLifeLock Inc. Common Stock,nortonlifelock,0,United States,
+WMG,Warner Music Group Corp. Class A Common Stock,"warner,music",0,United States,2020
+PKG,Packaging Corporation of America Common Stock,"packaging,corporation",0,United States,2000
+TXT,Textron Inc. Common Stock,textron,0,United States,
+U,Unity Software Inc. Common Stock,"unity,software",0,United States,2020
+LU,Lufax Holding Ltd American Depositary Shares two of which representing one Ordinary Share,lufax,0,China,2020
+FMC,FMC Corporation Common Stock,"fmc,corporation",0,United States,
+FWONA,Liberty Media Corporation Series A Liberty Formula One Common Stock,[],0,United States,
+OMC,Omnicom Group Inc. Common Stock,omnicom,0,United States,
+NICE,NICE Ltd American Depositary Shares,"nice,ltd",0,Israel,
+CSL,Carlisle Companies Incorporated Common Stock,"carlisle,companies",0,United States,
+EQT,EQT Corporation Common Stock,"eqt,corporation",0,United States,
+CHRW,C.H. Robinson Worldwide Inc. Common Stock,"ch,robinson",0,United States,1997
+ROKU,Roku Inc. Class A Common Stock,roku,0,United States,2017
+HTHT,Huazhu Group Limited American Depositary Shares,huazhu,0,China,2010
+MGM,MGM Resorts International Common Stock,"mgm,resorts",0,United States,
+VTRS,Viatris Inc. Common Stock,viatris,0,United States,
+ENTG,Entegris Inc. Common Stock,entegris,0,United States,2000
+CTXS,Citrix Systems Inc. Common Stock,citrix,0,United States,1995
+WLK,Westlake Corporation Common Stock,"westlake,corporation",0,United States,2004
+KB,KB Financial Group Inc,"kb,financial",0,South Korea,
+STLD,Steel Dynamics Inc.,"steel,dynamics",0,United States,1996
+PTC,PTC Inc. Common Stock,ptc,0,United States,
+AMH,American Homes 4 Rent Common Shares of Beneficial Interest,"american,homes",0,,2013
+CE,Celanese Corporation Celanese Corporation Common Stock,celanese,0,United States,2005
+SUZ,Suzano S.A. American Depositary Shares (each representing One Ordinary Share),suzano,0,,2018
+KIM,Kimco Realty Corporation Common Stock,"kimco,realty",0,United States,
+MAS,Masco Corporation Common Stock,"masco,corporation",0,United States,
+WTRG,Essential Utilities Inc. Common Stock,"essential,utilities",0,United States,
+BAH,Booz Allen Hamilton Holding Corporation Common Stock,"booz,allen",0,United States,2010
+LSXMK,Liberty Media Corporation Series C Liberty SiriusXM Common Stock,[],0,United States,
+DT,Dynatrace Inc. Common Stock,dynatrace,0,United States,2019
+ABMD,ABIOMED Inc. Common Stock,abiomed,0,United States,
+LSXMA,Liberty Media Corporation Series A Liberty SiriusXM Common Stock,[],0,United States,
+SBNY,Signature Bank Common Stock,"signature,bank",0,United States,2004
+BEN,Franklin Resources Inc. Common Stock,"franklin,resources",0,United States,
+CNA,CNA Financial Corporation Common Stock,"cna,financial",0,United States,
+NDSN,Nordson Corporation Common Stock,nordson,0,United States,
+GLPI,Gaming and Leisure Properties Inc. Common Stock,glpi,pass,United States,
+TFX,Teleflex Incorporated Common Stock,"teleflex,incorporated",0,United States,
+UAL,United Airlines Holdings Inc. Common Stock,"united,airlines",0,United States,
+SNN,Smith & Nephew SNATS Inc. Common Stock,"smith,&",0,United Kingdom,
+GDDY,GoDaddy Inc. Class A Common Stock,godaddy,0,United States,2015
+TPL,Texas Pacific Land Corporation Common Stock,"texas,pacific",0,United States,
+TAP,Molson Coors Beverage Company Class B Common Stock,"molson,coors",0,Canada,
+FHN,First Horizon Corporation Common Stock,"first,horizon",0,United States,
+BZ,KANZHUN LIMITED American Depository Shares,"kanzhun,limited",0,China,2021
+CG,The Carlyle Group Inc. Common Stock,"the,carlyle",0,United States,2012
+HAS,Hasbro Inc. Common Stock,hasbro,0,United States,
+AFG,American Financial Group Inc. Common Stock,[],0,United States,
+ICL,ICL Group Ltd. Ordinary Shares,"icl,group",0,Israel,2014
+EMN,Eastman Chemical Company Common Stock,"eastman,chemical",0,United States,
+KOF,Coca Cola Femsa S.A.B. de C.V.  American Depositary Shares each representing 10 Units (each Unit consists of 3 Series B Shares and 5 Series L Shares),[],0,Mexico,1993
+AZPN,Aspen Technology Inc. Common Stock,"aspen,technology",0,United States,
+APA,APA Corporation Common Stock,"apa,corporation",0,United States,
+CRL,Charles River Laboratories International Inc. Common Stock,"charles,river",0,United States,2000
+NI,NiSource Inc Common Stock,nisource,0,United States,
+PATH,UiPath Inc. Class A Common Stock,uipath,0,,2021
+HST,Host Hotels & Resorts Inc. Common Stock,"host,hotels",0,United States,
+ETSY,Etsy Inc. Common Stock,etsy,0,United States,2015
+LUMN,Lumen Technologies Inc. Common Stock,"lumen,technologies",0,United States,
+ALLY,Ally Financial Inc. Common Stock,"ally,financial",0,United States,2014
+RE,Everest Re Group Ltd. Common Stock,"everest,re",0,Bermuda,
+CCK,Crown Holdings Inc.,"crown,holdings",0,United States,
+SCI,Service Corporation International Common Stock,[],0,United States,
+NMR,Nomura Holdings Inc ADR American Depositary Shares,"nomura,holdings",0,Japan,
+Y,Alleghany Corporation Common Stock,alleghany,0,United States,
+KEP,Korea Electric Power Corporation Common Stock,"korea,electric",0,South Korea,1994
+QGEN,Qiagen N.V. Common Shares ,qiagen,0,Netherlands,
+LBTYK,Liberty Global plc Class C Ordinary Shares,[],0,United Kingdom,
+AAP,Advance Auto Parts Inc.,"advance,auto",0,United States,
+OVV,Ovintiv Inc. (DE),ovintiv,0,Canada,
+LBTYB,Liberty Global plc Class B Ordinary Shares,[],0,United Kingdom,
+PLUG,Plug Power Inc. Common Stock,"plug,power",0,United States,1999
+FCNCA,First Citizens BancShares Inc. Class A Common Stock,"first,citizens",0,United States,
+CCL,Carnival Corporation Common Stock,"carnival,corporation",0,United States,1987
+FICO,Fair Isaac Corproation Common Stock,"fair,isaac",0,United States,
+IPG,Interpublic Group of Companies Inc. (The) Common Stock,interpublic,0,United States,
+PCTY,Paylocity Holding Corporation Common Stock,paylocity,0,United States,2014
+ASX,ASE Technology Holding Co. Ltd. American Depositary Shares (each representing Two Common Shares) ,"ase,technology",0,,2018
+BILI,Bilibili Inc. American Depositary Shares,bilibili,0,China,2018
+UTHR,United Therapeutics Corporation Common Stock,"united,therapeutics",0,United States,1999
+LW,Lamb Weston Holdings Inc. Common Stock ,"lamb,weston",0,,2016
+RS,Reliance Steel & Aluminum Co. Common Stock (DE),"reliance,steel",0,United States,1994
+SNA,Snap-On Incorporated Common Stock,snap-on,0,United States,
+ARES,Ares Management Corporation Class A Common Stock,"ares,management",0,,2014
+HSIC,Henry Schein Inc. Common Stock,"henry,schein",0,United States,1995
+OTEX,Open Text Corporation Common Shares,"open,text",0,Canada,1996
+LBTYA,Liberty Global plc Class A Ordinary Shares,"liberty,global",0,United Kingdom,
+JHX,James Hardie Industries plc American Depositary Shares (Ireland),"james,hardie",0,Ireland,
+AGL,agilon health inc. Common Stock,"agilon,health",0,,2021
+FNF,FNF Group of Fidelity National Financial Inc. Common Stock,"fnf,group",0,United States,2014
+RPM,RPM International Inc. Common Stock,"rpm,international",0,United States,
+WRK,Westrock Company Common Stock,westrock,0,,2015
+BLDR,Builders FirstSource Inc. Common Stock,"builders,firstsource",0,United States,2005
+YMM,Full Truck Alliance Co. Ltd. American Depositary Shares (each representing 20 Class A Ordinary Shares),"truck,alliance",0,,2021
+QRVO,Qorvo Inc. Common Stock,qorvo,0,United States,
+ERIE,Erie Indemnity Company Class A Common Stock,"erie,indemnity",0,United States,
+REG,Regency Centers Corporation Common Stock,"regency,centers",0,United States,1993
+WPP,WPP plc American Depositary Shares,wpp,0,Ireland,
+GGG,Graco Inc. Common Stock,graco,0,United States,
+MORN,Morningstar Inc. Common Stock,morningstar,0,United States,2005
+PHM,PulteGroup Inc. Common Stock,pultegroup,0,United States,
+XP,XP Inc. Class A Common Stock,xp,0,Brazil,2019
+BHVN,Biohaven Pharmaceutical Holding Company Ltd. Common Shares,biohaven,0,United States,2017
+BSY,Bentley Systems Incorporated Class B Common Stock,"bentley,systems",0,United States,2020
+GME,GameStop Corporation Common Stock,"gamestop,corporation",0,United States,2002
+BKI,Black Knight Inc. Common Stock ,"black,knight",0,,2017
+WES,Western Midstream Partners LP Common Units Representing Limited Partner Interests,"western,midstream",0,United States,2012
+DOX,Amdocs Limited Ordinary Shares,amdocs,0,Guernsey,
+DINO,HF Sinclair Corporation Common Stock,"hf,sinclair",0,United States,1960
+BURL,Burlington Stores Inc. Common Stock,"burlington,stores",0,,2013
+GETY,"Getty Images Holdings, Inc.",[],0,United States,
+NYT,The New York Times Company,[],0,United States,
+NJR,New Jersey Resources Corporation,"jersey,resources",0,United States,
+1398.HK,Industrial & Commercial Bank of China Ltd.,icbc,0,hongkong,
+1299.HK,AIA Group Limited,aia,0,hongkong,
+1088.HK,China Shenhua Energy Company Limited,"shenhua,energy",0,hongkong,
+2840.HK,SPDR?Gold Shares,"spdr,gold",0,hongkong,
+1876.HK,Budweiser Brewing Company APAC Limited,budweiser,0,hongkong,
+2388.HK,BOC Hong Kong (Holdings) Limited,[],0,hongkong,
+9866.HK,NIO Inc.,nio,0,hongkong,
+0011.HK,Hang Seng Bank Limited,[],0,hongkong,
+0688.HK,China Overseas Land & Investment Limited,"china,overseas,land",0,hongkong,
+2020.HK,ANTA Sports Products Limited,anta,0,hongkong,
+0981.HK,Semiconductor Manufacturing International Corporation,smic,0,hongkong,
+0914.HK,Anhui Conch Cement Company Limited,"anhui,conch",0,hongkong,
+3908.HK,China International Capital Corporation Limited,cicc,0,hongkong,
+0003.HK,The Hong Kong and China Gas Company Limited,towngas,0,hongkong,
+2196.HK,"Shanghai Fosun Pharmaceutical (Group) Co., Ltd.","fosun,pharma",0,hongkong,
+6680.HK,"JL Mag Rare-Earth Co., Ltd.","jl,mag",0,hongkong,
+7203.T,Toyota Motor Corporation,toyota,0,japan,
+6758.T,Sony Group Corporation,sony,0,japan,
+9432.T,Nippon Telegraph and Telephone Corporation,ntt,0,japan,
+6501.T,"Hitachi, Ltd.",hitachi,0,japan,
+7267.T,"Honda Motor Co., Ltd.",honda,0,japan,
+8411.T,"Mizuho Financial Group, Inc.",mizuho,0,japan,
+7751.T,Canon Inc.,canon,0,japan,
+6702.T,Fujitsu Limited,fujitsu,0,japan,
+6301.T,Komatsu Ltd.,komatsu,0,japan,
+6502.T,Toshiba Corporation,toshiba,0,japan,
+7201.T,"Nissan Motor Co., Ltd.",nissan,0,japan,
+3407.T,Asahi Kasei Corporation,"asahi,kasei",0,japan,
+8421.T,Shinkin Central Bank,shinkin,0,japan,
+8697.T,"Japan Exchange Group, Inc.",jpx,0,japan,
+4716.T,Oracle Corporation Japan,oracle,0,japan,
+7951.T,Yamaha Corporation,yamaha,0,japan,
+8952.T,Japan Real Estate Investment Corporation,[],0,japan,
+7261.T,Mazda Motor Corporation,mazda,0,japan,
+7731.T,Nikon Corporation,nikon,0,japan,
+000270.KS,Kia Corporation,kia,0,korea,
+011200.KS,"HMM Co.,Ltd",hmm,0,korea,
+024110.KS,Industrial Bank of Korea,ibk,0,korea,
+081660.KS,FILA Holdings Corporation,fila,0,korea,
+215200.KQ,MegaStudyEdu Co. Ltd,megastudy,0,korea,
+034120.KS,Seoul Broadcasting System,sbs,0,korea,
+601398.SS,Industrial & Commercial Bank of China Ltd.,icbc,0,china,
+300750.SZ,"Contemporary Amperex Technology Co., Limited",catl,0,china,
+601088.SS,China Shenhua Energy Company Limited,"shenhua,energy",0,china,
+600900.SS,"China Yangtze Power Co., Ltd.","yangtze,power",0,china,
+600000.SS,"Shanghai Pudong Development Bank Co., Ltd.",spdb,0,china,
+688981.SS,Semiconductor Manufacturing International Corporation,smic,0,china,
+601995.SS,China International Capital Corporation Limited,cicc,0,china,
+001979.SZ,"China Merchants Shekou Industrial Zone Holdings Co., Ltd.","china,merchants,shekou",0,china,
+600010.SS,"Inner Mongolia Baotou Steel Union Co., Ltd.","baotou,steel",0,china,
+601600.SS,Aluminum Corporation of China Limited,chinalco,0,china,
+603369.SS,"Jiangsu King's Luck Brewery Joint-Stock Co., Ltd.","king's,luck",0,china,
